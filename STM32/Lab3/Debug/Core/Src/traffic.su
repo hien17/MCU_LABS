@@ -1,0 +1,3 @@
+traffic.c:10:6:traffic1	16	static
+traffic.c:33:6:traffic2	16	static
+traffic.c:56:6:blinkLed1	16	static
